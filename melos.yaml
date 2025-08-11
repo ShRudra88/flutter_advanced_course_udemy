@@ -1,0 +1,4 @@
+name: flutter_advanced_course_udemy
+packages:
+  - core/**
+  - features/**
